@@ -1,5 +1,5 @@
 {
-  "name": "Azad Abdul Hameed Balushi Portfolio",
+  "name": "Azad Abdul Hameed Balushi",
   "short_name": "Azad Balushi",
   "description": "Digital Transformation & Enterprise Communications Professional — 20+ years of enterprise experience in SharePoint, Microsoft 365, digital workplace, and enterprise communications.",
   "start_url": "/",
@@ -9,7 +9,7 @@
   "orientation": "portrait-primary",
   "background_color": "#EAF7FA",
   "theme_color": "#12809B",
-  "categories": ["business", "productivity", "education", "portfolio"],
+  "categories": ["business", "productivity", "education"],
   "lang": "en",
   "dir": "ltr",
   "id": "/",
@@ -50,19 +50,11 @@
       "sizes": "1024x1024",
       "type": "image/png",
       "form_factor": "wide",
-      "label": "Azad Balushi — Digital Transformation Portfolio"
+      "label": "Azad Balushi — Digital Transformation Profile"
     }
   ],
   "shortcuts": [
-    {
-      "name": "Portfolio",
-      "short_name": "Portfolio",
-      "description": "View the project portfolio",
-      "url": "/portfolio",
-      "icons": [
-        { "src": "/icons/icon-192x192.png", "sizes": "192x192", "type": "image/png" }
-      ]
-    },
+    
     {
       "name": "About",
       "short_name": "About",

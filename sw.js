@@ -1,6 +1,6 @@
 /* eslint-disable no-restricted-globals */
 // ============================================================================
-// Service Worker — Azad Balushi Portfolio PWA
+// Service Worker — Azad Balushi PWA
 // ----------------------------------------------------------------------------
 // Caching strategy:
 //   - Precache: core shell (offline page, manifest, key icons)
@@ -27,7 +27,6 @@ const PRECACHE_URLS = [
   '/AB_Logo.png',
   '/azad-portrait.png',
   '/',
-  '/portfolio',
   // iOS splash screens
   '/splash/splash-iphone-15-promax.png',
   '/splash/splash-iphone-15-pro.png',
